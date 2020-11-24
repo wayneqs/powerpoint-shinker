@@ -1,1 +1,1 @@
-# powerpoint-shinker
+# powerpoint-shrinker
